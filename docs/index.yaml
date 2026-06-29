@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  meber-app:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-06-29T11:06:53.073262674+09:00"
+    description: fastapi member application
+    digest: 9efb24a1f5511c4e30d8451d21905a86cb2dbfcf7f2bf6e9677f80bef0077238
+    name: meber-app
+    type: application
+    urls:
+    - https://pretty2753.github.io/MyHelmChart/meber-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-29T11:06:53.072460288+09:00"
