@@ -1,0 +1,6 @@
+apiVersion: v2
+name: meber-app
+description: fastapi member application
+type: application
+version: 0.1.0  # chart 자체의버전
+appVersion: "1.0.0" # chart로 배포하는 app의 version
